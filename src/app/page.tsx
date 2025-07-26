@@ -20,7 +20,9 @@ export default function Home() {
           <div className="flex justify-center space-x-8">
             {/* Twitter/X */}
             <a 
-              href="#" 
+              href="https://x.com/eduardocalr" 
+              target="_blank"
+              rel="noopener noreferrer"
               className="group flex flex-col items-center space-y-2 transition-transform duration-300 hover:scale-110"
               aria-label="Twitter/X"
             >
@@ -36,7 +38,9 @@ export default function Home() {
 
             {/* LinkedIn */}
             <a 
-              href="#" 
+              href="https://www.linkedin.com/in/eduardocr/" 
+              target="_blank"
+              rel="noopener noreferrer"
               className="group flex flex-col items-center space-y-2 transition-transform duration-300 hover:scale-110"
               aria-label="LinkedIn"
             >
@@ -52,7 +56,9 @@ export default function Home() {
 
             {/* GitHub */}
             <a 
-              href="#" 
+              href="https://github.com/educr6" 
+              target="_blank"
+              rel="noopener noreferrer"
               className="group flex flex-col items-center space-y-2 transition-transform duration-300 hover:scale-110"
               aria-label="GitHub"
             >
